@@ -79,5 +79,5 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 
 ### Feel free to explore my repositories and connect with me on LinkedIn!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/prveena2001)
-[![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenahennadige15@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prveena2001/)](https://www.linkedin.com/in/prveena2001/)
+[![Email Badge](https://img.shields.io/badge/Email-praveenahennadige15%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenahennadige15@gmail.com)
