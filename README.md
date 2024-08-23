@@ -33,14 +33,18 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 
 ### Industry Knowledge:
 ![Enclosure Design](https://img.shields.io/badge/-Enclosure%20Design-9C27B0?style=flat&logo=solidworks&logoColor=white)
+![Soldering](https://img.shields.io/badge/-Soldering-F48024?style=flat&logo=raspberrypi)
+
+
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-3776AB?style=flat&logo=tensorflow&logoColor=white)
 ![Signal Processing](https://img.shields.io/badge/-Signal%20Processing-008080?style=flat&logo=gnuradio&logoColor=white)
+
+
 ![Data Science](https://img.shields.io/badge/-Data%20Science-4CAF50?style=flat&logo=python&logoColor=white)
 ![Calculus](https://img.shields.io/badge/-Calculus-6A1B9A?style=flat&logo=mathworks&logoColor=white)
 ![Differential Equations](https://img.shields.io/badge/-Differential%20Equations-0288D1?style=flat&logo=mathworks&logoColor=white)
 ![Linear Algebra](https://img.shields.io/badge/-Linear%20Algebra-FF5252?style=flat&logo=mathworks&logoColor=white)
 ![Graph Theory](https://img.shields.io/badge/-Graph%20Theory-8E24AA?style=flat&logo=mathworks&logoColor=white)
-![Soldering](https://img.shields.io/badge/-Soldering-F48024?style=flat&logo=raspberrypi)
 
 
 ## 🌟 Featured Projects
