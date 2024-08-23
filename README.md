@@ -56,23 +56,24 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 #### <small>🌫️ **PM 2.5 Dust Sensor Project**</small>
 - Designed and developed a dust sensor to detect PM 2.5 levels in industrial environments.
 - Programmed the microcontroller using AVR to process sensor data and deliver real-time PM2.5 concentration readings.
-  - **Skills:** PCB and Enclosure Design, Microcontroller Programming, SMD Soldering, Sensor Calibration, Mobile App Development
+  - *Skills:* PCB and Enclosure Design, Microcontroller Programming, SMD Soldering, Sensor Calibration, Mobile App Development
 
 #### <small>🎵 **High Frequency Amplifier - Laboratory Practice Project**</small>
 - Designed a high-frequency amplifier capable of driving an 8-ohm speaker across a frequency range of 20kHz to 100kHz.
 - Used a detailed design approach, including stages such as Class A, Class B, Class AB, and voltage buffer stages.
-  - **Skills:** Circuit Design, Soldering and PCB Design, Enclosure Design
+  - *Skills:* Circuit Design, Soldering and PCB Design, Enclosure Design
 
 #### <small>📡 **Communication Design Project**</small>
 - Implemented a point-to-point digital wireless communication system using GNU Radio in a Linux environment.
 - Customized GNU Radio blocks using Python.
 - Achieved seamless transmission and reception of images, bit streams, and real-time audio using BladeRF device.
-  - **Skills:** Software-Defined Radio, Linux Proficiency
+  - *Skills:* Software-Defined Radio, Linux Proficiency
 
 #### <small>⚙️ **FPGA UART Design Project**</small>
 - Developed Verilog RTL code for a UART transceiver and implemented the design on FPGA.
 - Created a testbench to validate the UART functionality.
-  - **Skills:** Verilog, FPGA Design, Digital Communication, Testbench Development
+  - *Skills:* Verilog, FPGA Design, Digital Communication, Testbench Development
+
 
 
 ## 🎗 Volunteering & Leadership
