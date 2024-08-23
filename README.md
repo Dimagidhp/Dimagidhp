@@ -18,8 +18,12 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 ### Programming Languages:
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+
 ![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+
+
 ![AVR](https://img.shields.io/badge/-AVR-FF3E00?style=flat&logo=atmel)
 ![Verilog](https://img.shields.io/badge/-Verilog-00C7B7?style=flat&logo=verilog)
 
