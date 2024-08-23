@@ -76,13 +76,8 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 
 
 
-## 🎗 Volunteering & Leadership
-- **Committee Member** - IEEE ComSoc Student Branch Chapter of UoM
-- **Finance Committee Member** - IEEE Industrial Automation Student Branch Chapter of UoM
-- **Company Coordinator** - ENTC Career Fair 2024
-- **Organizing Committee Member** - EXMO 2023, IEEE Open Week 2024
 
 ### Feel free to explore my repositories and connect with me on LinkedIn!
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/dmpcd)
-[![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveendissanayaka63@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/praveen-dissanayaka/)](https://www.linkedin.com/in/prveena2001)
+[![Email Badge](https://img.shields.io/badge/Email-praveendissanayaka63%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:praveenahennadige15@gmail.com)
