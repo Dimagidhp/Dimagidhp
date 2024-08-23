@@ -4,15 +4,14 @@
   <img src="https://komarev.com/ghpvc/?username=dmpcd&color=yellow" alt="Profile Views Counter">
 </p>
 
-I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I have a strong passion for turning knowledge into impactful projects 🚀, especially in the fields of:
+I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I'm interested in,
 
-- **Electronics** ⚡
-- **Telecommunication** 📡
 - **Machine Learning** 🤖
+- **Deep Learning** 🧠
+- **Networking**  🌐
+- **Telecommunication** 📡
 - **Data Science** 📊
-- **Embedded Systems** 🔧
-- **IoT** 🌐
-- **FPGA Design** 🖥️
+- **IoT** 🔗
 
 ## 🛠 Technical Skills
 
