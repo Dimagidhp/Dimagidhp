@@ -26,12 +26,10 @@ I'm an **Electronics and Telecommunication Engineering** undergraduate at the **
 ### Software Tools:
 ![Altium](https://img.shields.io/badge/-Altium-0078D7?style=flat&logo=altiumdesigner)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-EF3B2D?style=flat&logo=solidworks)
-![Proteus](https://img.shields.io/badge/-Proteus-5D89DB?style=flat&logo=proteus)
-![LTspice](https://img.shields.io/badge/-LTspice-FFFFFF?style=flat&logo=analogdevices)
 ![GNU Radio](https://img.shields.io/badge/-GNU%20Radio-083D77?style=flat&logo=gnuradio)
-![Node-RED](https://img.shields.io/badge/-Node--RED-8F0000?style=flat&logo=nodered)
-![Quartus Prime](https://img.shields.io/badge/-Quartus%20Prime-0071C5?style=flat&logo=intel)
-![ModelSim](https://img.shields.io/badge/-ModelSim-00BFFF?style=flat&logo=modelsim)
+![Matlab](https://img.shields.io/badge/-Matlab-0076A8?style=flat&logo=mathworks)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
 
 ### Industry Knowledge:
 ![PCB Design](https://img.shields.io/badge/-PCB%20Design-000000?style=flat&logo=pcbway&logoColor=green)
