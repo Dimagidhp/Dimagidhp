@@ -1,8 +1,5 @@
 # Hi, I'm Praveena Dimagi 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dmpcd&color=yellow" alt="Profile Views Counter">
-</p>
 
 I'm an **Electronics and Telecommunication Engineering** undergraduate at the **University of Moratuwa** 🎓. I'm interested in,
 
